@@ -15,5 +15,6 @@ https://www.youtube.com/watch?v=FMVq9n76n2E&t=2s
 ![](DJV5.png)
 
 ![](AudioBoard.jpg)
-
+TM-D710GA Audio PCB
 ![](AudioBoardIC.jpg)
+TM-D710GA Audio PCB
