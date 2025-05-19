@@ -1,5 +1,5 @@
 # KENWOOD TM-D710GA
-Restoring DTMF decode capabilities for remote control cross-band repeating.
+Restoring DTMF decode capabilities for remote control cross-band repeater.
 
 Manuals in these newer radios have notes about wireless operation being unavailable in serials B8610081 and up for the V71A and B8610001 and up for the 710GA.
 
