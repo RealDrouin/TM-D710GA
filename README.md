@@ -10,6 +10,7 @@ https://forums.qrz.com/index.php?threads/restoring-dtmf-decode-capabilities-to-k
 
 https://www.youtube.com/watch?v=FMVq9n76n2E&t=2s
 
+
 ![](AudioBoard.jpg)
 
 ![](AudioBoardIC.jpg)
