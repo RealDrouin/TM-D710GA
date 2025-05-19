@@ -1,4 +1,4 @@
-# Kenwood TM-D710GA
+# Kenwood TM-D710GA (GPS onboard)
 Restoring DTMF decode capabilities for remote control cross-band repeater.
 
 Manuals in these newer radios have notes about wireless operation being unavailable in serials B8610081 and up for the V71A and B8610001 and up for the 710GA.
@@ -29,7 +29,7 @@ https://sv8ym.blogspot.com/2010/07/mysterious-case-of-withering-filters.html?fbc
 # Kenwood TM-D710A
 ![](BadFilter.png)
 
-# Kenwood TM-D710GA (GPS on board)
+# Kenwood TM-D710GA (GPS onboard)
 ![](FilterFIX.png)
 
 ![](IF_Filter_fix.jpg)
