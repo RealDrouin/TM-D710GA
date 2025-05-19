@@ -18,3 +18,15 @@ https://www.youtube.com/watch?v=FMVq9n76n2E&t=2s
 TM-D710GA Audio PCB
 ![](AudioBoardIC.jpg)
 TM-D710GA Audio PCB
+
+# IF Filter Bias
+
+Kenwood fix the design (TM-D710GA) (on my rig good news)
+add capacitor to remove voltage bias on if filter pin.
+
+https://sv8ym.blogspot.com/2010/07/mysterious-case-of-withering-filters.html?fbclid=IwY2xjawKXYKdleHRuA2FlbQIxMABicmlkETEyM3JTUzdTcFpsRnlwdXpCAR4LgATvSXCBZfFxxZ-Y7gjBiO5Q4KDCzu5qKQw3LJ08vP704-cwwP8FPrCk8A_aem_fnu4HLnc1__Jov_xRa5TrQ
+
+![](IF_Filter_fix.jpg)
+
+
+
