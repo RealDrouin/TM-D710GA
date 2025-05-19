@@ -26,6 +26,8 @@ add capacitor to remove voltage bias on if filter pin.
 
 https://sv8ym.blogspot.com/2010/07/mysterious-case-of-withering-filters.html?fbclid=IwY2xjawKXYKdleHRuA2FlbQIxMABicmlkETEyM3JTUzdTcFpsRnlwdXpCAR4LgATvSXCBZfFxxZ-Y7gjBiO5Q4KDCzu5qKQw3LJ08vP704-cwwP8FPrCk8A_aem_fnu4HLnc1__Jov_xRa5TrQ
 
+![](FilterFIX.png)
+
 ![](IF_Filter_fix.jpg)
 
 
