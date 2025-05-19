@@ -8,6 +8,8 @@ I have an old Alinco HT DJ-V5 after looking at the service manual I noticed that
 
 https://forums.qrz.com/index.php?threads/restoring-dtmf-decode-capabilities-to-kenwood-tm-v71a-and-tm-d710ga-radios.779383/
 
+https://www.youtube.com/watch?v=FMVq9n76n2E&t=2s
+
 ![](AudioBoard.jpg)
 
 ![](AudioBoardIC.jpg)
