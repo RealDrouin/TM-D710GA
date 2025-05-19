@@ -1,4 +1,4 @@
-# KENWOOD TM-D710GA
+# Kenwood TM-D710GA
 Restoring DTMF decode capabilities for remote control cross-band repeater.
 
 Manuals in these newer radios have notes about wireless operation being unavailable in serials B8610081 and up for the V71A and B8610001 and up for the 710GA.
@@ -26,12 +26,11 @@ add capacitor to remove voltage bias on if filter pin.
 
 https://sv8ym.blogspot.com/2010/07/mysterious-case-of-withering-filters.html?fbclid=IwY2xjawKXYKdleHRuA2FlbQIxMABicmlkETEyM3JTUzdTcFpsRnlwdXpCAR4LgATvSXCBZfFxxZ-Y7gjBiO5Q4KDCzu5qKQw3LJ08vP704-cwwP8FPrCk8A_aem_fnu4HLnc1__Jov_xRa5TrQ
 
-# TM-D710A
+# Kenwood TM-D710A
 ![](BadFilter.png)
 
-# TM-D710GA (GPS on board)
+# Kenwood TM-D710GA (GPS on board)
 ![](FilterFIX.png)
-
 
 ![](IF_Filter_fix.jpg)
 
