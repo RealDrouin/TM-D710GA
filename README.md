@@ -10,7 +10,9 @@ YES YES YES !!!! Good News it working !!!
 
 https://forums.qrz.com/index.php?threads/restoring-dtmf-decode-capabilities-to-kenwood-tm-v71a-and-tm-d710ga-radios.779383/
 
-https://www.youtube.com/watch?v=FMVq9n76n2E&t=2s
+(cross-band repeater) https://www.youtube.com/watch?v=Oo-yigpYj4s&t=259s
+
+(cross-band repeater) https://www.youtube.com/watch?v=FMVq9n76n2E&t=2s
 
 ![](DJV5.png)
 
